@@ -1,0 +1,1 @@
+Experienced backend developer with expertise in Python, FastAPI, and SQL. Familiar with Docker and cloud deployment using AWS.

@@ -1,0 +1,5 @@
+[
+  {"title": "Backend Developer", "skills": ["python", "fastapi", "sql"]},
+  {"title": "DevOps Engineer", "skills": ["aws", "docker", "linux"]},
+  {"title": "Fullstack Developer", "skills": ["javascript", "django", "sql"]}
+]
